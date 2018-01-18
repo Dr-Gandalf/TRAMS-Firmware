@@ -3011,6 +3011,28 @@ DaveX plan for Teensylu/printrboard-type pinouts (ref teensylu & sprinter) for a
 #define ZAXIS 1		//Bit in PORTL which function as Slave Select PIN for Z Axis
 #define E0AXIS 2	//Bit in PORTL which function as Slave Select PIN for E1 Axis
 
+  #ifdef ULTRA_LCD
+
+    #ifdef NEWPANEL
+      #define LCD_PINS_RS 16
+      #define LCD_PINS_ENABLE 17
+      #define LCD_PINS_D4 23
+      #define LCD_PINS_D5 25
+      #define LCD_PINS_D6 27
+      #define LCD_PINS_D7 29
+
+      #ifdef REPRAP_DISCOUNT_SMART_CONTROLLER
+        #define BEEPER 37
+
+        #define BTN_EN1 31
+        #define BTN_EN2 33
+        #define BTN_ENC 35
+
+        #define SDCARDDETECT 49
+	   #endif
+	  #endif
+   #endif
+
 #endif // TRAMS
 
 

@@ -15,17 +15,17 @@
 *                      Current configuration
 *******************************************************************/
 // only change if necessary
-#define X_CURRENT_RUN	25	// Motor run current (0=1/32…31=32/32)
-#define X_CURRENT_HOLD	8	// Standstill current (0=1/32…31=32/32)
+#define X_CURRENT_RUN	25	// Motor run current (0=1/32â€¦31=32/32)
+#define X_CURRENT_HOLD	8	// Standstill current (0=1/32â€¦31=32/32)
 
-#define Y_CURRENT_RUN	25	// Motor run current (0=1/32…31=32/32)
-#define Y_CURRENT_HOLD	8	// Standstill current (0=1/32…31=32/32)
+#define Y_CURRENT_RUN	25	// Motor run current (0=1/32â€¦31=32/32)
+#define Y_CURRENT_HOLD	8	// Standstill current (0=1/32â€¦31=32/32)
 
-#define Z_CURRENT_RUN	23	// Motor run current (0=1/32…31=32/32)
-#define Z_CURRENT_HOLD	8	// Standstill current (0=1/32…31=32/32)
+#define Z_CURRENT_RUN	23	// Motor run current (0=1/32â€¦31=32/32)
+#define Z_CURRENT_HOLD	8	// Standstill current (0=1/32â€¦31=32/32)
 
-#define E0_CURRENT_RUN	28	// Motor run current (0=1/32…31=32/32)
-#define E0_CURRENT_HOLD	8	// Standstill current (0=1/32…31=32/32)
+#define E0_CURRENT_RUN	28	// Motor run current (0=1/32â€¦31=32/32)
+#define E0_CURRENT_HOLD	8	// Standstill current (0=1/32â€¦31=32/32)
 
 
 

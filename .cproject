@@ -30,17 +30,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Marlin/Libraries/LiquidCrystal/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Marlin/Libraries/LiquidTWI2}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Marlin/Libraries/SPI}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/arduino/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/arduino/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidCrystal}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidCrystal/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidCrystal_I2C}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidTWI2}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/SPI}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/U8glib}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/U8glib/utility}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/Wire}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/Wire/utility}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.cpp.sketch.input.1235651687" name="CPP source files" superClass="it.baeyens.arduino.compiler.cpp.sketch.input"/>
 							</tool>
@@ -57,17 +46,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Marlin/Libraries/LiquidCrystal/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Marlin/Libraries/LiquidTWI2}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Marlin/Libraries/SPI}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/arduino/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/arduino/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidCrystal}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidCrystal/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidCrystal_I2C}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/LiquidTWI2}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/SPI}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/U8glib}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/U8glib/utility}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/Wire}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TRAMS-Firmware/Libraries/Wire/utility}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.1296923291" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>
